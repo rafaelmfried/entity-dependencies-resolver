@@ -105,6 +105,13 @@ Estrutura típica (exemplo):
 
 ---
 
+## Conceitos utilizados no projeto
+
+- **DAG**: https://www.datacamp.com/pt/blog/what-is-a-dag
+- **ORDENAÇÃO TOPOLÓGICA**: https://www-geeksforgeeks-org.translate.goog/dsa/topological-sorting-indegree-based-solution/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+
+---
+
 ## Contributing
 
 Contribuições são bem-vindas. Siga estas etapas:
