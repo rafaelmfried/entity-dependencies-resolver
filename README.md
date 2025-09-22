@@ -35,7 +35,7 @@
 
 Antes de começar, verifique se o seu ambiente possui:
 
-- Node.js (versão 18+ recomendada)
+- Node.js (versão 20+ recomendada)
 - npm (ou outro gerenciador compatível)
 - Git
 
